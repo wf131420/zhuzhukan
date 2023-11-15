@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eason的小说阅读页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Eason的小说阅读页</h1>
+    </header>
+    <main>
+        <h2>欢迎来到Eason的小说阅读页</h2>
+        <p>嗨，我是Eason，欢迎来到我的小说阅读页。这个网页专为小说爱好者设计，让您轻松畅读各种精彩的小说。</p>
+        <h2>浏览小说</h2>
+        <p>在这里，您可以选择您喜欢的小说，并开始阅读。我会不断更新并添加新的小说，所以记得常常回来看看。</p>
+        <h2>联系我</h2>
+        <p>如果您有任何关于小说、建议或其他事情的问题，都可以通过以下方式与我联系：</p>
+        <ul>
+            <li>Email: [您的邮箱地址]</li>
+            <li>社交媒体：[您的社交媒体链接]</li>
+        </ul>
+    </main>
+</body>
+</html>
